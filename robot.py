@@ -8,7 +8,7 @@ WIDTH, HEIGHT = 600, 600
 GRID_SIZE = 20
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Voice Controlled Robot")
+pygame.display.set_caption("Robot")
 
 clock = pygame.time.Clock()
 
